@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/91672539" />
+  <img height="150" src="https://avatars.githubusercontent.com/u/91672539" alt="'Four Panels at the Laundromat' by @neatcoolfun"/>
 </div>
 
 ###
